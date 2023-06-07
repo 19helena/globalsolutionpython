@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 Projeto: Campanha de Combate à Fome
+
 Integrantes do Grupo e Trumas:
 Helena Cristina Rocha Medeiros, RM 551873, 1TDSPM 
 
